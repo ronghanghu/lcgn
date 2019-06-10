@@ -1,0 +1,9 @@
+FEAT_TYPE: scene_graph
+H_FEAT: 1
+W_FEAT: 100
+D_FEAT: 2385  # 1703 (names) + 618 (attributes) + 64
+
+TRAIN:
+  LOSS_TYPE: sigmoid
+TEST:
+  EPOCH: 25

@@ -1,0 +1,9 @@
+FEAT_TYPE: spatial
+H_FEAT: 7
+W_FEAT: 7
+D_FEAT: 2112  # 2048+64
+
+TRAIN:
+  LOSS_TYPE: sigmoid
+TEST:
+  EPOCH: 10

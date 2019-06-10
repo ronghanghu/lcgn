@@ -1,0 +1,9 @@
+FEAT_TYPE: objects
+H_FEAT: 1
+W_FEAT: 100
+D_FEAT: 2112  # 2048+64
+
+TRAIN:
+  LOSS_TYPE: sigmoid
+TEST:
+  EPOCH: 10
