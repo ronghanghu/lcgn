@@ -1,0 +1,1845 @@
+<pad>
+<unk>
+no
+lake
+right
+yes
+left
+salad
+green
+sandwich
+blue
+microwave
+cloudless
+sidewalk
+bottom
+cord
+apple
+racket
+man
+orange
+men
+bike
+decoration
+cake
+sofa
+black
+metal
+counter
+trailer
+car
+wood
+street
+khaki
+tie
+umbrella
+silver
+air
+white
+surfer
+shorts
+ocean
+surfboard
+kitchen
+hat
+top
+clear
+hill
+long
+beach
+concrete
+airplane
+large
+tower
+red
+elephant
+elephants
+ground
+brown
+shirt
+sink
+mirror
+chrome
+outlet
+glass
+pink
+dish
+soap
+wire
+yellow
+gray
+roadway
+table
+lettuce
+container
+fork
+short
+pavement
+grass
+giraffe
+watch
+boat
+trash
+refrigerator
+clean
+clouds
+mayonnaise
+bowl
+bun
+tablecloth
+tomato
+burger
+fries
+cheese
+uniform
+color
+boy
+outdoors
+rock
+snow
+mountains
+cupcake
+cell phone
+cat
+suitcase
+dark
+beige
+floor
+meat
+carrots
+beans
+peppers
+tomatoes
+pickles
+potato
+gravy
+full
+bone
+beverage
+bubbles
+round
+cup
+hot dog
+coffee
+carrot
+spatula
+onions
+mushroom
+small
+keyboard
+desk
+parking meter
+horse
+monkey
+bench
+necklace
+water
+frisbee
+player
+skateboard
+jeans
+dress
+road
+truck
+comb
+bathroom
+hair dryer
+girl
+tiles
+park
+shore
+tree
+thick
+jacket
+denim
+woman
+remote control
+blond
+branches
+pole
+outfit
+onion
+pepper
+broccoli
+weeds
+coat
+dog
+bag
+backpack
+phone
+child
+bed
+baby
+picture
+bedroom
+shelf
+knives
+cable
+tan
+overcast
+hotel
+sign
+apartment
+collar
+chair
+paper
+rug
+front
+van
+skating
+apples
+train
+rocks
+train station
+palm tree
+purple
+eye glasses
+shelves
+closet
+arrow
+faucet
+restroom
+worker
+seat
+on
+roof
+boats
+sand
+light blue
+bread
+basket
+rocky
+stage
+pants
+dark blue
+wall
+boots
+lady
+pizza
+spinach
+liquid
+chicken
+porcelain
+cabinet
+indoors
+cream colored
+sea
+bus
+talking
+people
+driving
+bushes
+cap
+glove
+number
+gloves
+catcher
+leather
+zoo
+hay
+garden
+suit
+dock
+porch
+skiing
+mountain
+grassy
+zebra
+field
+plant
+open
+poster
+long sleeved
+controller
+carpet
+bear
+toy
+town
+camera
+monitor
+headphones
+speaker
+butterfly
+vegetable
+utensil
+cars
+railroad
+foggy
+jet
+book
+cow
+purse
+museum
+cockpit
+dome
+countertop
+window
+couch
+laptop
+drawer
+pillow
+nightstand
+hotel room
+squirrel
+bush
+fire hydrant
+sticker
+thin
+sandy
+material
+street light
+dogs
+books
+box
+closed
+plastic
+ice maker
+towel
+door
+playing
+dispenser
+toilet paper
+frame
+office chair
+trash can
+glasses
+lamp
+fan
+ceiling
+television
+old
+sleeveless
+bookcase
+notebook
+clock
+heart
+square
+wetsuit
+skateboarder
+standing
+surfing
+calm
+doll
+temple
+crowd
+eating
+banana
+donut
+crumbs
+paddle
+guy
+giraffes
+trees
+soccer
+wide
+checkered
+home plate
+vase
+light brown
+gold
+screen
+cloudy
+vest
+policeman
+sweater
+lemon
+teddy bear
+little
+stuffed bear
+grilled
+computer
+classroom
+down
+mud
+meadow
+sheep
+fence
+bat
+chain
+word
+painting
+flag
+coffee cup
+t-shirt
+spoon
+plate
+graffiti
+snowy
+stormy
+skateboarding
+drawers
+pillows
+sitting
+wine
+microphone
+cardboard
+costume
+sunny
+dense
+pen
+behind
+swimsuit
+symbol
+ambulance
+sandal
+teal
+sock
+chairs
+menu
+resting
+motorcycle
+parking lot
+fish
+jumping
+tent
+taxi
+jockey
+building
+lambs
+fat
+tennis ball
+dressing
+mat
+sauce
+donkey
+path
+brick
+stone
+colorful
+snowboard
+helmet
+coffee table
+cupboard
+suv
+short sleeved
+donuts
+airport
+toilet
+traffic light
+hangar
+forest
+dark brown
+running
+empty
+bird
+oranges
+lemons
+windows
+waiting
+fountain
+plants
+rope
+blanket
+computer mouse
+partly cloudy
+light fixture
+pitcher
+runway
+skinny
+cross
+lying
+laptops
+rice
+squash
+asparagus
+dirty
+pineapple
+hot dogs
+station
+ham
+dessert
+juice
+steps
+bananas
+apron
+chef
+wagon
+letter
+stove
+fake
+cabinets
+candles
+sandwiches
+watermelon
+cherry
+blueberry
+garlic
+dirt
+house
+harbor
+sailboats
+motorcycles
+bats
+skater
+pasture
+garnish
+pointing
+flower
+library
+sky
+tall
+skate park
+coconut
+tea
+ball
+crosswalk
+platform
+shoe
+wii controller
+children
+wii
+kiwi
+beef
+pan
+carriage
+jars
+candle
+dishes
+heater
+dining table
+dried
+tennis
+bleachers
+batter
+sausage
+chinese food
+pot
+barn
+bus stop
+computers
+logs
+oven
+buns
+boxes
+cart
+dry
+cauliflower
+bags
+kite
+toy car
+bicycles
+young
+blouse
+wristwatch
+river
+napkin
+palm trees
+murky
+street sign
+wet
+city
+walking
+bronze
+tv stand
+leaves
+butter knife
+maroon
+cutting board
+metallic
+tray
+pizza shop
+drinking
+beer
+soda
+basil
+cooked
+driver
+waiter
+paper towel
+package
+letters
+display
+toppings
+sun
+bare
+computer desk
+stop sign
+traffic sign
+handbag
+spectator
+moss
+bookshelf
+riding
+parmesan cheese
+tag
+olive
+jersey
+paper towels
+burner
+mug
+toothbrush
+father
+can
+tinted
+hair
+vegetables
+pepperoni
+airplanes
+armchair
+steam
+radiator
+magazines
+cemetery
+scooter
+triangular
+posing
+wires
+wavy
+baseball players
+calf
+rabbit
+bunny
+stuffed animal
+smoke
+side table
+dining room
+snowboarder
+bridge
+black and white
+modern
+cows
+sheet
+pocket
+staring
+goat
+sprinkles
+cell phones
+tank top
+pastries
+chocolate
+decorations
+roses
+new
+girls
+bottle
+cucumber
+wooden
+earphones
+coleslaw
+saucer
+parsley
+soup
+chopsticks
+female
+rough
+egg
+potatoes
+leafy
+soft
+bedding
+socks
+drink
+store
+doorway
+snow pants
+football
+hallway
+shower curtain
+couple
+fishing pole
+skier
+paved
+dumplings
+blazer
+sailboat
+game
+baseball
+robe
+mouse pad
+seagull
+rubber duck
+mask
+yard
+pear
+label
+avocado
+raisins
+at the camera
+striped
+corn
+roll
+luggage
+pancakes
+syrup
+cake pan
+mixing bowl
+stainless steel
+pans
+ladles
+crouching
+umpire
+toast
+curtain
+tissue box
+vintage
+placemat
+ski
+bull
+bikes
+blinds
+heavy
+knife
+anchovies
+tables
+pasta
+broth
+post
+mushrooms
+cabbage
+magazine
+end table
+light
+deer
+rectangular
+speakers
+door frame
+low
+grill
+sausages
+taking a picture
+tin
+containers
+drapes
+sweet potato
+peach
+words
+wristband
+minivan
+stuffed animals
+hillside
+engineer
+athlete
+pizza oven
+dough
+plates
+restaurant
+tortilla
+receipt
+bending
+cans
+gate
+sleeping
+herbs
+tape
+ipod
+pouch
+kites
+hard
+melons
+pineapples
+pedestrians
+swimming pool
+stadium
+logo
+birds
+eggs
+fruit
+star
+computer monitor
+plain
+kiosk
+place
+coach
+kettle
+grater
+dinner
+living room
+planter
+octagonal
+marker
+drum
+light switch
+bracelet
+aquarium
+coke
+shoes
+potted
+stick
+dip
+son
+mother
+coats
+trains
+intersection
+pig
+still
+iron
+puddle
+spectators
+video camera
+melon
+strawberry
+beets
+ice cream
+numbers
+dresser
+salmon
+ship
+balcony
+beautiful
+scarf
+polar bear
+flowers
+curtains
+goggles
+dotted
+boot
+ribs
+cameras
+celery
+players
+bucket
+grapes
+wine glass
+pastry
+balls
+fireplace
+ottoman
+jeep
+dryer
+shop
+shopping bag
+bacon
+map
+router
+flower pot
+covered
+hospital
+sandals
+skis
+straight
+piano
+ring
+hats
+suitcases
+lace
+gas stove
+crate
+above
+walkway
+folding chair
+shrimp
+stained
+olives
+bikini
+toddler
+cafeteria
+video games
+artwork
+off
+brushing teeth
+mustard
+tongs
+train car
+below
+belt
+women
+shield
+ladder
+headband
+bricks
+cyclist
+rubber
+pipes
+office
+mall
+church
+lawn
+photographer
+marble
+earring
+towels
+cliff
+aircraft
+soap dish
+pipe
+cupcakes
+cherries
+bicycle
+snowsuit
+projector
+beet
+train tracks
+narrow
+pine tree
+mixer
+match
+frog
+crown
+horses
+bar stool
+baseball bat
+paintings
+branch
+gentleman
+pigeon
+sculpture
+wallpaper
+tissue
+coffee maker
+coffee pot
+chains
+entertainment center
+seed
+water bottle
+houses
+pizza slice
+sweatshirt
+brass
+olive oil
+tangerine
+zebras
+pizza cutter
+egg yolk
+taking a photo
+steel
+cables
+picture frame
+bottles
+heel
+gown
+rifle
+soldier
+camel
+candy
+napkins
+up
+shape
+ice
+character
+brush
+mound
+soda bottle
+granite
+sneakers
+trash bag
+mozzarella
+lime
+blender
+antelope
+hotdog bun
+aluminum
+turkey
+vases
+looking down
+silverware
+lamb
+skirt
+lush
+wicker
+papers
+statue
+ketchup
+asian
+wine glasses
+chimney
+passenger
+spices
+trunk
+buildings
+lock
+island
+auditorium
+antenna
+roast beef
+market
+bread box
+locomotive
+dress shirt
+guys
+pond
+xbox controller
+balloon
+net
+asphalt
+hand soap
+figurine
+meal
+dvd player
+table lamp
+shopping center
+dishwasher
+bandana
+cigarette
+wheelchair
+shallow
+terminal
+ceiling light
+cookies
+mesh
+guitar
+toaster
+stroller
+stairs
+desserts
+polo shirt
+macaroni
+deep
+milk
+choppy
+stones
+jar
+cereal
+cowboy hat
+ugly
+cactus
+peacock
+casserole
+courtyard
+meats
+vines
+duck
+looking up
+peanut butter
+fur
+tablet
+cupboards
+wig
+platter
+swimming
+bears
+cakes
+away
+newspaper
+toys
+cage
+caramel
+deck
+strawberries
+crystal
+pots
+pencils
+printer
+cups
+mango
+clock tower
+life jacket
+boys
+surfboards
+gun
+light bulb
+garage
+cords
+tomato sauce
+yogurt
+lid
+canister
+cream
+hills
+pillowcase
+cooking
+trucks
+american flag
+snowboarding
+appetizer
+beer mug
+brownie
+highway
+curly
+mexican food
+peas
+bathtub
+penguin
+coffee mug
+crust
+spots
+high
+uncooked
+machine
+panda
+muffin
+cake stand
+trunks
+mangoes
+cloths
+game controller
+bouquet
+log
+pajamas
+cloth
+tree branches
+swamp
+gravel
+crane
+male
+tunnel
+power lines
+monitors
+pens
+styrofoam
+peanut
+whipped cream
+magnets
+face mask
+shirts
+produce
+farm
+toaster oven
+huge
+lion
+rhino
+fire truck
+fans
+bookshelves
+trumpet
+canopy
+cucumbers
+cookie
+giant
+noodles
+milk carton
+raisin
+uniforms
+safety jacket
+buses
+canoe
+fisherman
+waste basket
+cooler
+whisk
+jumpsuit
+ostriches
+cone
+straw
+onion ring
+chili
+onion rings
+butter
+steamed
+happy
+cricket
+moose
+cobblestone
+leafless
+baking sheet
+doors
+soap dispenser
+adidas
+cd
+wool
+peaches
+ostrich
+village
+nuts
+rose
+tractor
+vests
+baseball mitt
+garland
+stickers
+teddy bears
+lamps
+antennas
+bug
+tiny
+pizzas
+beer bottle
+pedestrian
+angry
+comforter
+cats
+seal
+cafe
+diaper
+pancake
+hard drive
+toilet brush
+wii game
+drawing
+washing machine
+rolling pin
+grinder
+utensils
+floor lamp
+cooking pot
+topping
+parrot
+candies
+antique
+briefcase
+jackets
+cabin
+irregular
+air conditioner
+brunette
+backpacks
+bakery
+helicopter
+kitten
+radio
+reading
+bracelets
+card
+controllers
+cheeseburger
+sign post
+flamingo
+benches
+shuttle
+curved
+potato chips
+flip flop
+console
+hardwood
+dugout
+soldiers
+stars
+tents
+baker
+raincoat
+baked
+pork
+dumpster
+liquor
+powder
+team
+gifts
+mannequin
+biker
+almond
+chef hat
+hedges
+scaffolding
+leaf
+school bus
+fried
+pie
+skyscraper
+cane
+grape
+food truck
+dolls
+baking pan
+desert
+shower
+wallet
+moon
+hose
+roadside
+shark
+dolphin
+sour cream
+salon
+lobster
+potato salad
+burrito
+granola
+frosting
+soccer ball
+foil
+performing trick
+zucchini
+passengers
+steak
+avocados
+cereal box
+pea
+skateboards
+leggings
+chandelier
+figure
+real
+merchandise
+toolbox
+family
+raspberry
+fruit stand
+spice
+hippos
+ropes
+herb
+theater
+wines
+skillet
+tea kettle
+salt
+sunglasses
+pizza tray
+rainy
+spoons
+champagne
+undershirt
+magnet
+sticky notes
+microwave oven
+adult
+feeder
+drinks
+pizza box
+pillars
+sheets
+chopstick
+snow flakes
+ripe
+bus driver
+glaze
+raspberries
+powdered sugar
+blueberries
+cowboy
+remote controls
+poodle
+notepad
+tea pot
+cathedral
+backyard
+ducks
+goats
+biscuit
+tennis balls
+waffle
+video game
+dvds
+dog food
+gym
+workers
+sword
+unhappy
+rooftop
+buoy
+caucasian
+patio
+paint
+bedspread
+goal
+desktop computer
+pine trees
+raw
+pita
+nike
+mashed potatoes
+phones
+crackers
+icing
+hummus
+guacamole
+alien
+hamburger
+bagel
+salad dressing
+fruits
+power line
+tool
+charger
+butterflies
+window frame
+stores
+attic
+croissant
+crates
+cones
+hairbrush
+leopard
+seafood
+life preserver
+pandas
+stew
+tree branch
+waitress
+keyboards
+barrier
+food
+alligator
+coarse
+unripe
+hook
+baskets
+audience
+mattress
+oatmeal
+tiger
+wine bottles
+artichoke
+lobby
+rainbow colored
+pilot
+brownies
+fire extinguisher
+copper
+ladle
+bison
+drawings
+binder
+flags
+orchard
+pumpkin
+tags
+alarm clock
+pencil
+traffic lights
+amusement park
+calculator
+broom
+picnic table
+hedge
+smooth
+ramekin
+rain
+balloons
+underwear
+customers
+trays
+owl
+nut
+wildflowers
+parachute
+earrings
+cooker
+bell
+step
+control panel
+eagle
+stapler
+pudding
+lunch
+alcohol
+lego
+flour
+cash register
+lily
+omelette
+feathers
+chalkboard
+baseball bats
+shaking hands
+gas station
+pump
+sushi
+tuna
+seaweed
+customer
+rhinos
+cheetah
+cages
+helmets
+hippo
+drape
+homes
+mannequins
+tools
+turtle
+drain
+snake
+grapefruit
+student
+students
+soda can
+medicine cabinet
+officer
+envelope
+thermometer
+swan
+food processor
+cat food
+fog
+desk lamp
+toothpaste
+staircase
+entrance
+kimono
+toasted
+dish soap
+rice cooker
+telephone pole
+walls
+peanuts
+urinal
+sponge
+chickens
+knee pad
+sad
+crab
+towel dispenser
+boulders
+healthy
+plantains
+cookie dough
+gourd
+umbrellas
+scissors
+light bulbs
+chickpeas
+shut
+lipstick
+peeled
+soap bottle
+elmo
+wine bottle
+banana bunches
+tissues
+wii controllers
+gadget
+unpaved
+cracker
+stuffed bears
+vendor
+pizza pan
+vacuum
+soccer player
+whale
+unpeeled
+making a face
+scrub brush
+shoe laces
+stuffed dog
+croissants
+policemen
+beer can
+old fashioned
+wardrobe
+dragon
+keypad
+vending machine
+tourists
+wolf
+honey
+berries
+berry
+bushy
+feta cheese
+smoothie
+blankets
+unhealthy
+carts
+biscuits
+milkshake
+bandage
+money
+banana bunch
+bird cage
+ornament
+pomegranate
+panda bear
+shoppers
+tofu
+tourist
+soft drink
+flip flops
+pesto
+street lights
+cheesecake
+masks
+ornaments
+clocks
+employee
+beds
+napkin dispenser
+riding boots
+marina
+ski lift
+pasta salad
+beads
+bagels
+rotten
+parking sign
+clay
+blood
+taking bath
+suits
+picnic tables
+eggplant
+spear
+under
+vine
+knee pads
+fire
+banana peel
+electric toothbrush
+snacks
+sticks
+downward
+canisters
+ovens
+skin
+christmas lights
+blind
+beach umbrella
+mailbox
+cookie jar
+name tag
+figurines
+spider
+swans
+goose
+rackets
+vanilla
+herd
+forks
+pigeons
+taking pictures
+farmer
+sugar
+bomb
+rounded
+lighthouse
+ahead
+batteries
+kittens
+waffles
+paper container
+octopus
+coconuts
+sunflower
+mickey mouse
+pizza boxes
+pears
+pocket watch
+seeds
+opaque
+seagulls
+beer cans
+candle holder
+fudge
+school
+breakfast
+underneath
+packages
+curled
+paint brush
+bath towel
+sweet potatoes
+chicken breast
+fence post
+hammer
+back
+sparse
+apartment building
+bar stools
+lunch box
+puppy
+marshmallow
+dresses
+daughter
+shopping cart
+satellite dish
+geese
+spray bottle
+shoe lace
+lemonade
+artichokes
+outlets
+snack
+almonds
+toothbrushes
+robot
+popcorn
+serving dish
+parent
+mountain side
+walnut
+packet
+gift
+loaf
+parachutes
+pizza pie
+cotton
+lounge
+dinosaur
+dry-erase board
+meatballs
+cranberries
+appetizers
+cinnamon
+shaving cream
+luggage cart
+toiletries
+shelter
+ice cubes
+smoke stack
+oil
+lizard
+oreo
+cards
+visitors
+bamboo
+televisions
+price tag
+shopper
+shops
+serving tray
+mirrors
+out
+visitor
+cds
+roasted
+taking a photograph
+ceramic
+oak tree
+pretzel
+castle
+sack
+animal
+spray can
+bird house
+knife block
+kiwis
+stump
+cream cheese
+buoys
+gorilla
+vinegar
+pretzels
+garment
+sea foam
+dolphins
+cranberry
+sugar packet
+egg carton
+nutella
+tractors
+donkeys
+panda bears
+bowls
+mountain peak
+hand dryer
+cotton dessert
+games
+uncomfortable
+coffee shop
+heels
+beach chair
+supermarket
+seat belt
+papaya
+nest
+christmas light
+outside
+wedding
+dragons
+blenders
+ketchup bottle
+dull
+pumpkins
+sunflowers
+toothpicks
+flatbread
+twigs
+beneath
+dish drainer
+cappuccino
+pizza crust
+bee
+jewelry
+dvd players
+bubble
+mugs
+lab coat
+cheese cube
+cigar
+fine
+utensil holder
+shampoo bottle
+pepper shaker
+performer
+muffins
+soccer balls
+forward
+water glass
+antelopes
+blossoms
+printers
+cookbook
+sconce
+hurdle
+tree leaves
+owls
+swimmer
+sugar packets
+hearts
+egg roll
+daisy
+garage door
+blackberries
+vitamins
+upward
+walnuts
+wok
+kangaroo
+bread loaf
+necklaces
+orchid
+scooters
+pecan
+snakes
+hair clip
+snail
+twig
+coffee cups
+mint
+apple logo
+watermelons
+lilies
+paper dispenser
+chocolate chips
+sideways
+groceries
+flames
+upwards
+beverages
+outfits
+salt shaker
+officers
+manhole cover
+waterfall
+eiffel tower
+food container
+dream catcher
+dinosaurs
+cotton candy
+hilltop
+towers
+snow boots
+silk
+snoopy
+ice cube
+ear buds
+bartender
+action figure
+kitchen towel
+taco
+storage box
+mustard bottle
+juice box
+gas pump
+lions
+gummy bear
+mattresses
+ravioli
+fresh
+hamburgers
+waves
+couches
+armor
+wild
+obstacle
+in the mirror
+bell tower
+elbow pad
+athletic shoe
+pub
+battery
+scarce
+characters
+french toast
+stir fry
+parrots
+coin
+water bottles
+music
+taking photos
+coffee beans
+life jackets
+cinnamon roll
+blossom
+angry bird
+pistachio
+bottle cap
+wolves
+shampoo
+immature
+pikachu
+horse hoof
+orchids
+wave
+elevator
+taking notes

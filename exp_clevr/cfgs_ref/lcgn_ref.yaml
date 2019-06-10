@@ -1,0 +1,23 @@
+STEM_NORMALIZE: False
+STEM_LINEAR: False
+STEM_CNN: True
+STEM_RENORMALIZE: True
+CMD_INPUT_ACT: TANH
+T_ENCODER: 72
+
+TRAIN:
+  EVAL_MAX_NUM: 10000
+  SOLVER:
+    LR: 1e-4
+    LR_DECAY: .5
+  BATCH_SIZE: 64
+  MAX_EPOCH: 35
+TEST:
+  EPOCH: 35
+
+encInputDropout: 0.85
+stemDropout: 0.82
+
+BUILD_VQA: False
+BUILD_REF: True
+VOCAB_QUESTION_FILE: './exp_clevr/data/vocabulary_clevr_locplus.txt'
