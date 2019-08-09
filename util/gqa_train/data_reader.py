@@ -1,3 +1,5 @@
+from __future__ import generator_stop
+
 import threading
 import queue
 import numpy as np
@@ -216,7 +218,7 @@ class DataReader:
             batch, n_sample, n_epoch = self.prefetch_queue.get(block=True)
             if batch is None:
                 if one_pass:
-                    raise StopIteration()
+                    return
                 else:
                     # get the next batch
                     batch, n_sample, n_epoch = self.prefetch_queue.get(
